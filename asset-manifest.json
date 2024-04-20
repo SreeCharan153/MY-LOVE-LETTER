@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MY-LOVE-LETTER/static/css/main.d71ba64f.css",
+    "main.js": "/MY-LOVE-LETTER/static/js/main.b44c16db.js",
+    "static/js/453.a692bddf.chunk.js": "/MY-LOVE-LETTER/static/js/453.a692bddf.chunk.js",
+    "static/media/Inthandham.mp3": "/MY-LOVE-LETTER/static/media/Inthandham.459bbabc57ba4ee9180a.mp3",
+    "index.html": "/MY-LOVE-LETTER/index.html",
+    "main.d71ba64f.css.map": "/MY-LOVE-LETTER/static/css/main.d71ba64f.css.map",
+    "main.b44c16db.js.map": "/MY-LOVE-LETTER/static/js/main.b44c16db.js.map",
+    "453.a692bddf.chunk.js.map": "/MY-LOVE-LETTER/static/js/453.a692bddf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d71ba64f.css",
+    "static/js/main.b44c16db.js"
+  ]
+}
